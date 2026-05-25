@@ -1,0 +1,10 @@
+# Nix
+.direnv/
+result
+result-*
+
+# Packwiz
+mods/*.jar
+
+# Codex
+.codex/

@@ -1,0 +1,6 @@
+.direnv/
+flake.nix
+flake.lock
+.envrc
+.packwizignore
+*.md
