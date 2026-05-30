@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "sky_aeronautics_rescue:ore_coal_island",
+    "sky_aeronautics_rescue:ore_iron_island",
+    "sky_aeronautics_rescue:ore_copper_island"
+  ],
+  "step": "underground_ores"
+}

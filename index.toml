@@ -6,6 +6,50 @@ hash = "cbf607957d982a8de3c06ce578b960bb617823bccc61143b9316f6548ef56eaa"
 metafile = true
 
 [[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/neoforge/biome_modifier/island_lava.json"
+hash = "fdc9c7b42f8a8579f544f8d7099f18dd0a2a0600b985539c76b122bf9017c22a"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/neoforge/biome_modifier/island_ores.json"
+hash = "bc89619e020fabac1cc57a8f46e5e3af5909d44c2c1b4b8e21b732d454c04a3c"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/configured_feature/lava_spring_island.json"
+hash = "9f39bc87314625885f442e600df7f68e5691c51c1ea08b4873dcced0629ee739"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/configured_feature/ore_coal_island.json"
+hash = "79251712c93c163549dfdefc77a6f539d6c43bba0d3851263ea25bca34f6c782"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/configured_feature/ore_copper_island.json"
+hash = "8c190a3eca3d2288384cac8ab5a48f7fb5fcb79aaa5d350b44f03f418df7c3ab"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/configured_feature/ore_iron_island.json"
+hash = "a116876eb26876efb4c47e21d94b85192b674733a0146f39e10e2f435c564853"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/placed_feature/lava_spring_island.json"
+hash = "e6964fc2995476faa4f4a38a5d3e3d4333dbc9d1061b0b9593b8820b01b6231d"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/placed_feature/ore_coal_island.json"
+hash = "737748e5168f94871acdcc86cf3356d20f6f772e7c7c0b4f01720bb60b10b0aa"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/placed_feature/ore_copper_island.json"
+hash = "72413f9143772d9485485b34083eb9b5459bbaee545705ba0efcd29512a973d1"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/data/sky_aeronautics_rescue/worldgen/placed_feature/ore_iron_island.json"
+hash = "360a4d62b064f1f6468946f19b66b4c4cf938c4d72eab5cffd194f1f143649d7"
+
+[[files]]
+file = "datapacks/sky_aeronautics_rescue/pack.mcmeta"
+hash = "d353543b5edd8930925a58adb39c69bec17c6f3500c3e2d44cfa3fd5665fd6dd"
+
+[[files]]
 file = "datapacks/sky_aeronautics_world/data/minecraft/dimension/overworld.json"
 hash = "26a59ed079e649f630d0acf0ed2302a3cf5d57f214801007f477777cab769eda"
 
@@ -24,6 +68,10 @@ hash = "a35faa46767eb7ab71485176c6bd880d5109c2596f60507e3e290f9df2aeb5cd"
 [[files]]
 file = "datapacks/sky_aeronautics_world/pack.mcmeta"
 hash = "40722ebe14137f6aab812e7066ddf277fa63b31883c4316ab7d78d99eaea9868"
+
+[[files]]
+file = "kubejs/server_scripts/starter_kit.js"
+hash = "de64368ebb85de1f1032be111d44dd923a9e2ed4dcb042e26935be27d7e04005"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -76,6 +124,11 @@ hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
 
 [[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -116,6 +169,11 @@ hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
 hash = "18a234289ea5a4d7055a0d892e69651f6d556bdff40f98f959827e43aa70182d"
 metafile = true
@@ -128,6 +186,16 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "d11bb3a4c43cdbe205c949bbb50977d12f3b22d129f738de7996b5722df3ac60"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-equally-opposite.pw.toml"
+hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
@@ -171,6 +239,11 @@ hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
 
 [[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -178,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/createegg-production.pw.toml"
 hash = "42b7ff1f96efa9712898916d8625755868a24a0d31b10f483132591486395202"
+metafile = true
+
+[[files]]
+file = "mods/createtools-n-weapons.pw.toml"
+hash = "7409e86fd018ca728cfb2e6287c7bd10282566833f7b88e96617375c5aa8c307"
 metafile = true
 
 [[files]]
@@ -196,6 +274,11 @@ hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -208,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
 metafile = true
 
 [[files]]
@@ -306,6 +394,11 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
+file = "mods/overworld-mirror.pw.toml"
+hash = "bd6c12762dc17447dfafa5c15f27b149fa7c966bbb468352de22694794b85e53"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
@@ -313,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -341,6 +439,11 @@ hash = "77d79da6989c4d38dd8ef2028c623fb8f63b7a0d52e4527f7be67010590d5e1d"
 metafile = true
 
 [[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "65ae5274b963d5b15e22cd3680b2ac6851f3fa5669b3914c496b45148a18a5a7"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
@@ -358,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "89afc3b671b36c0cb2eb24a88d00f45b534be3f63d9f24a0d4ac004e1ca61c45"
 metafile = true
 
 [[files]]

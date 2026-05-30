@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "sky_aeronautics_rescue:lava_spring_island"
+  ],
+  "step": "fluid_springs"
+}
