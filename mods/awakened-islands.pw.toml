@@ -1,0 +1,13 @@
+name = "Awakened Islands"
+filename = "awakened_islands-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/im5YgvNE/versions/ox7K9Qm5/awakened_islands-1.0.0.jar"
+hash-format = "sha512"
+hash = "591b77951eb0217ca37d9ec23b24e67f510235c17b6ee9a1611e02a0507082c98b2c00685022d894bd33f9651acaa3db34ea4f5f79d8fc1e0449283051962565"
+
+[update]
+[update.modrinth]
+mod-id = "im5YgvNE"
+version = "ox7K9Qm5"

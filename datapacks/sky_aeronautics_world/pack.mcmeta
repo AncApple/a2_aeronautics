@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": [48, 61],
+        "description": [
+            {
+                "text": "Sky Aeronautics World",
+                "color": "#4db8ff"
+            },
+            {
+                "text": "\nCreate Aeronautics - Three-Tier Sky Archipelago",
+                "color": "gray"
+            }
+        ]
+    }
+}

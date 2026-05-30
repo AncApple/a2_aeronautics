@@ -1,0 +1,13 @@
+name = "Create:Egg Production"
+filename = "create_egg_production-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cVconmno/versions/ix0sktZJ/create_egg_production-1.1.0.jar"
+hash-format = "sha512"
+hash = "02921508a71d3c2a0dbc2cfb60495483bf07bd0c4eaea836fc6a863f1f8ce2bbcc6033e843de319a3205835f0855a36d2c8f4184e4d00bd038d1dcef89cb8e19"
+
+[update]
+[update.modrinth]
+mod-id = "cVconmno"
+version = "ix0sktZJ"

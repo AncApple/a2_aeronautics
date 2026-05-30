@@ -1,0 +1,114 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "type": "sky_archipelago:sky_island",
+        "sky_island_settings": {
+          "terrain": {
+            "island_density": 0.45,
+            "min_island_radius": 20,
+            "max_island_radius": 90,
+            "min_island_y": 64,
+            "max_island_y": 280,
+            "max_island_thickness_blocks": 60,
+            "low_band_weight": 0.55,
+            "mid_high_band_weight": 0.35,
+            "very_high_band_weight": 0.10,
+            "low_band_center_offset": -18,
+            "very_high_band_center_offset": 12,
+            "cluster_spacing_mode": "dynamic",
+            "cluster_spacing": 128,
+            "min_cluster_spacing": 96,
+            "max_cluster_spacing": 480,
+            "terrain_relief_scale": 1.0,
+            "island_size_bands": {
+              "mode": "specific",
+              "small": {
+                "min_radius": 20,
+                "max_radius": 42,
+                "weight": 0.40
+              },
+              "medium": {
+                "min_radius": 42,
+                "max_radius": 68,
+                "weight": 0.45
+              },
+              "large": {
+                "min_radius": 75,
+                "max_radius": 110,
+                "weight": 0.15
+              }
+            },
+            "ocean_enabled": false,
+            "ocean_level_y": 0
+          },
+          "structure_support": {
+            "support_check_depth": 48,
+            "support_sample_grid_size": 5,
+            "support_threshold": 0.40
+          },
+          "surface_sky": {
+            "support_threshold": 0.42,
+            "footprint_inset_ratio": 0.18,
+            "search_radius_chunks": 3,
+            "min_stable_top_cells": 12,
+            "top_offset": 1,
+            "local_search_step_blocks": 8,
+            "local_search_radius_blocks": 24,
+            "grounded_sample_threshold": 0.7,
+            "max_ground_gap_blocks": 1,
+            "min_host_island_radius": 26,
+            "min_host_stable_top_cells": 10
+          },
+          "small_sky": {
+            "support_threshold": 0.32,
+            "footprint_inset_ratio": 0.28,
+            "search_radius_chunks": 8,
+            "min_stable_top_cells": 5,
+            "top_offset": 1,
+            "local_search_step_blocks": 4,
+            "local_search_radius_blocks": 20,
+            "grounded_sample_threshold": 0.75,
+            "max_ground_gap_blocks": 1,
+            "min_host_island_radius": 22,
+            "min_host_stable_top_cells": 7
+          },
+          "advanced": {
+            "default_near_miss_fallback_enabled": false,
+            "ocean_block_type": "water",
+            "structure_whitelist": [],
+            "structure_denylist": [],
+            "structure_category_overrides": []
+          }
+        },
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:overworld"
+        },
+        "settings": "minecraft:overworld"
+      }
+    },
+    "minecraft:the_nether": {
+      "type": "minecraft:the_nether",
+      "generator": {
+        "type": "minecraft:noise",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:nether"
+        },
+        "settings": "minecraft:nether"
+      }
+    },
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "type": "minecraft:noise",
+        "biome_source": {
+          "type": "minecraft:the_end"
+        },
+        "settings": "minecraft:end"
+      }
+    }
+  }
+}
