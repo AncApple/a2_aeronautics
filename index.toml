@@ -204,6 +204,11 @@ hash = "79592ca077b9fcc15805ae2ba25fe0d0966f49be9eddddc2ce043f6c02c2a49e"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "e9dce7730d04e7d7f44c6216fefa0897b361ece8a74ea4c474f9d986e2c0dcc5"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
@@ -341,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
 
 [[files]]
