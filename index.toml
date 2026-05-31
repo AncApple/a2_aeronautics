@@ -94,6 +94,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/attack-through-grass.pw.toml"
+hash = "d5d346b7e160ce251bb20d66f80e7b2188a7da5e6cf3b0e42ec353543077db5d"
+metafile = true
+
+[[files]]
 file = "mods/awakened-islands.pw.toml"
 hash = "d7f8ae89c163e9dd181f0f900637489f38a7b8e7be678a7b994f0c6dc0169c70"
 metafile = true
@@ -396,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/overworld-mirror.pw.toml"
 hash = "bd6c12762dc17447dfafa5c15f27b149fa7c966bbb468352de22694794b85e53"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
