@@ -224,6 +224,11 @@ hash = "f65d5e744defddd6fdb3daf88ffc5885d09e87e121f1a2a0254a7a789b1d0daf"
 metafile = true
 
 [[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "a95282ba6853e9f107ff312ae3c353f711c13267ba54b0520c97d37358e9e640"
+metafile = true
+
+[[files]]
 file = "mods/create-sky-village.pw.toml"
 hash = "52c16e839d26fb14ae1ceff26d16fd49f42db7658296b43c1161402e545f9cb8"
 metafile = true
@@ -391,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
 
 [[files]]
