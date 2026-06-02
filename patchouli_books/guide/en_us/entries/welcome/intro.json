@@ -1,0 +1,24 @@
+{
+  "name": "このModpackについて",
+  "category": "patchouli:welcome",
+  "icon": "minecraft:book",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "空の群島へようこそ",
+      "text": "このModpackは$(thing)空に浮かぶ島々$(): からなる世界を舞台にした、2〜4人向け協力サバイバルです。$(br2)地面は存在しません。あなたは浮島の上でゼロから生き延び、$(l)Create$(): の機械文明を発展させ、最終的には$(thing)Create Aeronauticsで飛行船$(): を建造して大空を制することが目標です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "主要Mod一覧",
+      "text": "$(l)Sky Archipelago$(): ——浮島の世界を生成$(br)$(l)Create$(): ——回転機械と自動化$(br)$(l)Create Aeronautics$(): ——飛行船の建造と飛行$(br)$(l)Gliders$(): ——早期の島間移動手段$(br)$(l)Forgiving Void$(): ——虚空落下から一時的に保護$(br)$(l)Terralith$(): ——多様なバイオームを浮島に追加$(br2)詳しくは各チャプターで説明します。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "進行の流れ",
+      "text": "$(li)スターターキットで最初の島に着地$(br)$(li)石と木を集めてサバイバル基盤を作る$(br)$(li)Createの水車から動力・自動化を始める$(br)$(li)グライダーで中層の島へ$(br)$(li)真鍮技術を習得する$(br)$(li)Create Aeronauticsで飛行船を建造$(br)$(li)最高層の島を征服する$(br2)このガイドブックが全ての道を示します！"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Createとは",
+  "category": "patchouli:create_basics",
+  "icon": "create:cogwheel",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Createとは",
+      "text": "$(l)Create$(): は回転動力（$(thing)Stress Unit / SU$()）を使って様々な機械を動かし、鉱石採掘から素材加工まで全てを自動化できるModです。$(br2)このModpackにおいてCreateは$(thing)ゲームの中核$()。飛行船建造にはCreate技術が必須です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "素材による進行ロードマップ",
+      "text": "Create技術の進歩は素材で区分されます：$(br2)$(li)$(thing)木→石$(): ——基本的な機械$(br)$(li)$(thing)銅（Copper）$(): ——中級機械・液体処理$(br)$(li)$(thing)真鍮（Brass）$(): ——高度な自動化・Aeronauticsの前提$(br2)$(l)真鍮$(): は銅と亜鉛の粉を$(thing)Mechanical Mixer$(): で混合して作ります。これが大きな目標です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Jadeで機械を確認",
+      "text": "$(l)Jade$(): Modが導入されています。機械にカーソルを合わせると：$(br2)$(li)$(thing)Stress Impact$(): ——その機械が消費する応力$(br)$(li)$(thing)Stress Capacity$(): ——動力源の最大応力$(br2)Capacityを超えると機械が止まります。動力源（水車・風車）を増やして対処しましょう。"
+    }
+  ]
+}

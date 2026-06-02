@@ -1,0 +1,7 @@
+{
+  "name": "Sky Aeronautics ガイドブック",
+  "landing_text": "空の群島へようこそ！$(br2)このガイドブックは、浮島でゼロから生き延び、Createの機械を発展させ、$(thing)Create Aeronauticsの飛行船$()で大空を制するまでの全ての道を示します。$(br2)まず「$(l)ようこそ$()」カテゴリから読み始めてください。",
+  "subtitle": "空を制する者の手引き",
+  "show_progress": false,
+  "version": "1"
+}

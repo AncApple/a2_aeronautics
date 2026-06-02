@@ -1,0 +1,24 @@
+{
+  "name": "Create Aeronauticsとは",
+  "category": "patchouli:aeronautics",
+  "icon": "minecraft:map",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Create Aeronauticsとは",
+      "text": "$(l)Create Aeronautics$(): はCreateを拡張し、$(thing)飛行船（Airship）$(): の建造と操縦を可能にするModです。$(br2)プレイヤーが設計した任意の構造物を飛行船として「$(thing)組み立て$():」ることができます。$(br2)大砲搭載艦、貨物船、探索艇——想像力次第で自由な船を作れます。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "なぜ飛行船が必要か",
+      "text": "高層の島（Y 220+）には最高レベルの資源があります。$(br2)グライダーでは$(thing)上昇できない$(): ため、高層島への到達には$(thing)上昇できる飛行手段$(): が必要です。$(br2)Create Aeronauticsの飛行船は$(thing)上昇・下降・前進・旋回$(): が全て可能——このModpackの$(l)最終的な移動手段$(): です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "飛行船への前提条件",
+      "text": "飛行船建造には以下が必要です：$(br2)$(li)$(thing)Createの真鍮技術$(): ——Brass Casingなどの素材$(br)$(li)$(thing)十分な鉄と銅$(): ——機械部品の素材$(br)$(li)$(thing)建築スペース$(): ——島の上か自分で拡張した足場$(br2)まずCreateのAutomationを完成させ、素材を十分に蓄えてから飛行船建造に挑みましょう。"
+    }
+  ]
+}

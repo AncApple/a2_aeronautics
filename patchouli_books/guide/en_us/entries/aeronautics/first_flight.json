@@ -1,0 +1,23 @@
+{
+  "name": "はじめての飛行",
+  "category": "patchouli:aeronautics",
+  "icon": "minecraft:elytra",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "最小構成の飛行船",
+      "text": "シンプルな小型艇から始めましょう：$(br2)$(li)$(thing)Craft Engine$(): × 1（中心に配置）$(br)$(li)$(thing)Ship Helm$(): × 1$(br)$(li)$(thing)Balloon$(): × 4〜8（上部に配置）$(br)$(li)$(thing)Propeller$(): × 2以上$(br)$(li)$(thing)Water Wheel$(): × 1（動力源）$(br2)最初は小さく作って操縦に慣れることを優先しましょう。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "飛行船の組み立て",
+      "text": "船体を作ったら$(thing)Craft Engine$(): を右クリックして$(thing)Assemble$(): を選択します。$(br2)エンジンが認識する連結した全てのブロックが飛行船として組み立てられます。$(br2)組み立てが成功すると船体全体が動く$(thing)Entity$(): になります。$(thing)Disassemble$(): で元に戻せます。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "大空へ！",
+      "text": "飛行船で$(thing)高層島（Y 220+）$(): に到達したら、このModpackの本当の探索が始まります。$(br2)Terralithの特殊バイオームには、地上のModpackでは見られない貴重な生成物が高層に浮かんでいます。$(br2)仲間と協力して飛行船を建造し、$(thing)空の群島$(): を征服しましょう。$(br2)$(l)ようこそ、空の冒険者よ！$():"
+    }
+  ]
+}

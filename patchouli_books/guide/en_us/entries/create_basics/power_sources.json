@@ -1,0 +1,24 @@
+{
+  "name": "動力源",
+  "category": "patchouli:create_basics",
+  "icon": "create:water_wheel",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:water_wheel",
+      "title": "水車（Water Wheel）",
+      "text": "序盤の主力動力源。水流に設置することで回転動力を生成します。$(br2)水流が速いほど出力が高くなります。人工的に水路を作って水を流すと効率的です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "動力の伝達",
+      "text": "水車の回転は$(thing)シャフト$(): (Shaft)と$(thing)歯車$(): (Cogwheel)で機械に伝えます。$(br2)大きな歯車から小さな歯車へ繋ぐと$(thing)回転速度が上昇$(): します（ただしStress Impactも増加）。$(br2)速度の上限はRPMで管理されます。Jadeで確認しましょう。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "動力源の選択肢",
+      "text": "$(li)$(thing)水車$(): ——序盤・安定した水流が必要$(br)$(li)$(thing)風車$(): (Windmill Bearing)——中盤・スペースが必要$(br)$(li)$(thing)蒸気機関$(): (Steam Engine)——上級・大型化に$(br2)序盤は複数の水車を$(thing)並列接続$(): して応力を増やすのが最も効率的です。同じシャフトに複数繋ぐだけでOKです。"
+    }
+  ]
+}

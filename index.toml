@@ -71,7 +71,7 @@ hash = "40722ebe14137f6aab812e7066ddf277fa63b31883c4316ab7d78d99eaea9868"
 
 [[files]]
 file = "kubejs/server_scripts/starter_kit.js"
-hash = "de64368ebb85de1f1032be111d44dd923a9e2ed4dcb042e26935be27d7e04005"
+hash = "409423ce794c1ba6398d15304bc5a62735be1d92c5556ac4fd9162db0708924f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -512,3 +512,79 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "patchouli_books/guide/book.json"
+hash = "5ebb853c0d034a9b634134225af215f2112cb82fb79f0d26f7e500603f92a8f6"
+
+[[files]]
+file = "patchouli_books/guide/en_us/categories/aeronautics.json"
+hash = "1b616459d53e2505e816cbbe94afbe1a7f313989df14b210bed3b9baa34659fa"
+
+[[files]]
+file = "patchouli_books/guide/en_us/categories/create_basics.json"
+hash = "885d35bd80c7454cdbc0c0deb261036c5d183c16dd89cc3f4561adfff875b779"
+
+[[files]]
+file = "patchouli_books/guide/en_us/categories/first_steps.json"
+hash = "2610f1378ddb13b83ea4a7daa799ca2acc8e52eef30c4f63f5b8c84dd5175cf8"
+
+[[files]]
+file = "patchouli_books/guide/en_us/categories/sky_exploration.json"
+hash = "c076568e8f8f31b0ac1de53ce9861bb0dd512754e075fc757742ba16e2af49b8"
+
+[[files]]
+file = "patchouli_books/guide/en_us/categories/welcome.json"
+hash = "01232f83cd1cb3285a85cd1bba2164c4f301ff2fe070a5ae79d7896337b49a28"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/aeronautics/airship_components.json"
+hash = "9945e3219d311ecc1bc489f858eaada26fb5ae725818146eeaccc3ade531cc12"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/aeronautics/first_flight.json"
+hash = "b9a1a5de729c9447499d4b8b2e1d27bb9d5fd52622702dc1d840cdad15a1b5ea"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/aeronautics/what_is_aeronautics.json"
+hash = "7813a3f141c3ff343c88d44d91f9b3935d63f185adcb9b5e15e1dc1bdf0679ca"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/create_basics/automation.json"
+hash = "bf1ffe4bbde2595f8cf434ee980fa87d2174362dbc34c3e4d585294a3705fc0f"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/create_basics/basic_machines.json"
+hash = "de84c57696fac569f1aec6ba1b4c472a4a8c558266731ed68da100116595b877"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/create_basics/power_sources.json"
+hash = "4e46f98323bc9e423ddac382123d9b7260a3fe3f1870b53ad247e0a59a85719c"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/create_basics/what_is_create.json"
+hash = "d50cc8538650141e6918edaa41f6b2025c85d3de1c4f8c861e3bb216e19fbde7"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/first_steps/bridging.json"
+hash = "e35e565b025c0028dd24bd284fcd82d41f827f044ffae7f4ce58988cc9c260c7"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/first_steps/first_island.json"
+hash = "354e451b31185ba20afcbec0719fc651f4fe4e3d99884c4e2a923d162ebdc95a"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/first_steps/starter_kit.json"
+hash = "670e3a23fff11d72441c29081da729d75e9922842862d62f1b1aae2a6e04ddd1"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/sky_exploration/glider.json"
+hash = "bb15059a88c63f4d05523a0752476fe19d4c0282a479a8a12f78de4be8221716"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/sky_exploration/island_tiers.json"
+hash = "cbf5d9bdb5cf416694704cb88239d19b84471e6804c0a59f967cb87c57152f96"
+
+[[files]]
+file = "patchouli_books/guide/en_us/entries/welcome/intro.json"
+hash = "3b6ac76e6046bd54cbc451326ddd43d018b6167863e9151f4d4c6b2de9c4b0b2"

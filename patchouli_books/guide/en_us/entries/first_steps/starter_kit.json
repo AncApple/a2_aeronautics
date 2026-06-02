@@ -1,0 +1,25 @@
+{
+  "name": "スターターキット",
+  "category": "patchouli:first_steps",
+  "icon": "minecraft:wooden_pickaxe",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "スターターキット",
+      "text": "初回ログイン時のみ、インベントリにアイテムが自動配布されます。$(br2)これらは新しい島での出発に最低限必要なものです。$(thing)大切に使いましょう$()：紛失しても再支給はありません。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:wooden_pickaxe",
+      "title": "木のツール",
+      "text": "ツルハシ・斧・シャベルが各1本。まず$(thing)石を採掘$(): してストーンツールに切り替えましょう。木のツールは耐久が低いので早めに置き換えてください。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "その他のアイテム",
+      "text": "$(thing)エンダーパール x4$(): ——緊急脱出・島間移動$(br)$(thing)パン x6$(): ——序盤の食料$(br)$(thing)白いウール x32$(): ——橋として島間を繋ぐ$(br)$(thing)松明 x16$(): ——夜間の安全確保$(br)$(thing)水バケツ$(): ——丸石生成・農業に$(br)$(thing)溶岩バケツ$(): ——丸石生成・かまどの燃料"
+    }
+  ]
+}

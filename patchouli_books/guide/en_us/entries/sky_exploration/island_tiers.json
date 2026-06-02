@@ -1,0 +1,24 @@
+{
+  "name": "三層の島",
+  "category": "patchouli:sky_exploration",
+  "icon": "minecraft:compass",
+  "priority": true,
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "世界の構造",
+      "text": "この世界の島は高度によって$(thing)3つの層$(): に分かれています：$(br2)$(li)$(thing)低層 Y 64〜160$(): ——橋・エンダーパールで到達$(br)$(li)$(thing)中層 Y 160〜220$(): ——グライダーが必要$(br)$(li)$(thing)高層 Y 220〜280$(): ——飛行船でのみ安全に探索$(br2)高い島ほど$(thing)価値の高いリソース$(): が眠っています。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "各層で得られるもの",
+      "text": "$(l)低層$(): ——鉄・石炭・銅・食料・基本的なバイオーム$(br2)$(l)中層$(): ——金・ラピスラズリ・Terralithの特殊バイオーム・希少植物$(br2)$(l)高層$(): ——ダイヤモンド・エメラルド・エンドストーン・Terralithの特殊生成物$(br2)まずは低層を完全に活用してから上を目指しましょう。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "島の距離感",
+      "text": "各層の島は水平方向にも広がっています。$(thing)Xaero's World Map$(): (Mキー)を活用して探索済みの島を管理しましょう。$(br2)$(thing)Explorer's Compass$(): で特定バイオームの方向を探すことも可能です。$(br2)まず近くの低層島を全て把握してから中層へ移行するのが安全です。"
+    }
+  ]
+}

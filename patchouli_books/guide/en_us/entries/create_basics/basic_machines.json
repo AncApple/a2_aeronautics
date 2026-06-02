@@ -1,0 +1,25 @@
+{
+  "name": "基本機械",
+  "category": "patchouli:create_basics",
+  "icon": "create:mechanical_press",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "序盤の必須機械",
+      "text": "以下の機械を優先的に作りましょう：$(br2)$(li)$(thing)Mechanical Press$(): ——板材・チェーン製作$(br)$(li)$(thing)Mechanical Mixer$(): ——混合・調合$(br)$(li)$(thing)Mechanical Saw$(): ——木材の自動加工$(br)$(li)$(thing)Millstone$(): ——鉱石粉砕$(br2)これらはCreate素材チェーンの基盤です。JEIでレシピを確認しながら進めましょう。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:mechanical_press",
+      "title": "Mechanical Press（必須）",
+      "text": "$(thing)アンデサイト合金$(): (Andesite Alloy)の板材製作に必須。Createの全素材チェーンを動かす出発点です。$(br2)上からシャフトで回転を与え、下にバレルを置いてアイテムをセットします。上下に押しつぶす動作でアイテムを加工します。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:mechanical_mixer",
+      "title": "Mechanical Mixer（真鍮の鍵）",
+      "text": "$(thing)真鍮$(): (Brass)の製作に必須。銅と亜鉛の粉末を混合して真鍮インゴットを作ります。$(br2)$(thing)Blaze Burner$(): と組み合わせることで高温加工（Superheating）が可能になり、さらに高度な素材が作れます。"
+    }
+  ]
+}

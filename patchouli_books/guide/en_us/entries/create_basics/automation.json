@@ -1,0 +1,23 @@
+{
+  "name": "自動化を始める",
+  "category": "patchouli:create_basics",
+  "icon": "create:belt",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "搬送の基本",
+      "text": "Createの真の力は$(thing)自動化$(): にあります。$(br2)$(thing)ベルト$(): (Belt)でアイテムを搬送し、$(thing)Funnel$(): (漏斗)で機械に投入・排出する基本ループを作りましょう。$(br2)まずは$(thing)丸石製造機→Millstone→自動精錬$(): の小さなラインから始めるのがおすすめです。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Deployer（展開者）",
+      "text": "$(thing)Deployer$(): は手動作業を自動化する機械です。ブロックの設置・破壊・アイテムの使用を自動で行えます。$(br2)$(thing)Mechanical Harvester$(): と組み合わせて作物を自動収穫することで、食料問題を完全に解決できます。空の世界でも農業は重要です。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "次のステップへ",
+      "text": "$(thing)真鍮$(): を量産できるようになったら中層探索の準備です。$(br2)$(l)真鍮で作れる重要アイテム：$():$(br)$(li)Create Goggles——詳細情報の表示$(br)$(li)Brass Funnel——高度な搬送$(br)$(li)Sequenced Gearshift——タイミング制御$(br2)$(thing)グライダー$()を手に入れて中層の島へ飛び出しましょう！"
+    }
+  ]
+}

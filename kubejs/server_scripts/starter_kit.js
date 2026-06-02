@@ -15,4 +15,5 @@ PlayerEvents.loggedIn(event => {
   player.give(Item.of('minecraft:torch', 16))
   player.give(Item.of('minecraft:water_bucket'))
   player.give(Item.of('minecraft:lava_bucket'))
+  player.give(Item.of('patchouli:guide_book[patchouli:book="patchouli:guide"]'))
 })

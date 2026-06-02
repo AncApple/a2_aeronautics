@@ -1,0 +1,23 @@
+{
+  "name": "飛行船の構成要素",
+  "category": "patchouli:aeronautics",
+  "icon": "create:brass_ingot",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "飛行船の構成",
+      "text": "Create Aeronauticsの飛行船は以下の要素で構成されます：$(br2)$(li)$(thing)Craft Engine$(): ——飛行船の核$(br)$(li)$(thing)Ship Helm$(): ——操縦席$(br)$(li)$(thing)Balloon$(): ——浮力を与える$(br)$(li)$(thing)Propeller$(): ——推進力$(br)$(li)$(thing)機体ブロック$(): ——船体（あらゆるブロックが使用可）"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "浮力と推進力",
+      "text": "$(thing)Balloon$(): が上向きの浮力を生み出します。風船の数が多いほど浮力が増加し、より重い船体を支えられます。$(br2)$(thing)Propeller$(): が前進・上昇・下降の推進力を担当します。Createのシャフトと接続して回転動力を供給します。$(br2)浮力と推進力のバランスが飛行の安定性を決定します。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "操縦システム",
+      "text": "$(thing)Ship Helm$(): が飛行船の操縦席です。Helmに乗ることで操縦モードに入ります：$(br2)$(li)$(thing)W / S$(): ——前進・後退$(br)$(li)$(thing)スペース / Shift$(): ——上昇・下降$(br)$(li)$(thing)マウス$(): ——旋回$(br2)Helmから離れると飛行船はその場で$(thing)停止$(): します。安全な場所でHelmを離れましょう。"
+    }
+  ]
+}
