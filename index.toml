@@ -249,8 +249,18 @@ hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]
@@ -330,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
+hash = "c0da49724f00d45790ec1d1013cec6e4b303f09625d2acbf3deddcab5f13e2f1"
 metafile = true
 
 [[files]]
@@ -385,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -465,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/sky-villages.pw.toml"
-hash = "65ae5274b963d5b15e22cd3680b2ac6851f3fa5669b3914c496b45148a18a5a7"
+hash = "3c88d13ec3f4c2904befee38aa1a4fc27ffb0c322fb4186d82a53179125e43d1"
 metafile = true
 
 [[files]]
@@ -481,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
